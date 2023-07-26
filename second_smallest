@@ -1,0 +1,15 @@
+function SecondSmallest(arr){
+    for(let i=0;i<arr.length;i++){
+        let mini = [];
+        if(arr[i]<mini)
+        arr[i]=mini;
+        for(let j=0; j<arr.length;j++){
+            if(arr[j]>mini,arr[j]<Secmax)
+            secmax = i;
+            let secmax = [];
+        }
+    }
+    return arr
+}
+let arr = SecondSmallest([1,2,3,4,5,6,7,8,9])
+console.log(arr);
